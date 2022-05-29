@@ -1,0 +1,29 @@
+{
+  "name": "apple-client-secret-generator",
+  "version": "1.0.0",
+  "description": "This package solves the problem of generating a JWT secret key for an Apple id, which is used for authorization through an apple id.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danil27/apple-client-secret-generator.git"
+  },
+  "author": "Danila Krygin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danil27/apple-client-secret-generator/issues"
+  },
+  "homepage": "https://github.com/Danil27/apple-client-secret-generator#readme",
+  "dependencies": {
+    "@types/node": "^17.0.36",
+    "jest": "^28.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "ts-node": "^10.8.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "typescript": "^4.7.2"
+  }
+}
