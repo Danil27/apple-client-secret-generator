@@ -6,7 +6,7 @@ The implementation is based on Apple's Generate and Validate Tokens documentatio
 ## Installation
 
 ## Usage
-# The value expiresIn must not be greater than 15777000 (6 months in seconds) from the Current UNIX Time on the server.
+// The value expiresIn must not be greater than 15777000 (6 months in seconds) from the Current UNIX Time on the server.
 
 const { createClientSecret } = require('./index');
 const fs = require('fs');
