@@ -1,7 +1,7 @@
 # apple-client-secret-generator
 This package solves the problem of generating a JWT secret key for an Apple id, which is used for authorization through an apple id.
 
-The implementation is based on Apple's (Generate and Validate Tokens )[https://developer.apple.com/documentation/sign_in_with_apple/generate_and_validate_tokens] documentation.
+The implementation is based on Apple's [Generate and Validate Tokens](https://developer.apple.com/documentation/sign_in_with_apple/generate_and_validate_tokens) documentation.
 ## Installation
 
 npm i apple-client-secret-generator
