@@ -8,7 +8,7 @@ The implementation is based on Apple's Generate and Validate Tokens documentatio
 npm i apple-client-secret-generator
 
 ## Usage
-___ The value expiresIn must not be greater than 15777000 (6 months in seconds) from the Current UNIX Time on the server.___
+The value expiresIn must not be greater than 15777000 (6 months in seconds) from the Current UNIX Time on the server.
 
 ```js
 const { createClientSecret } = require('./index');
