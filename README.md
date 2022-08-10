@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/apple-client-secret-generator
+
 # apple-client-secret-generator
 This package solves the problem of generating a JWT secret key for an Apple id, which is used for authorization through an apple id.
 
